@@ -3,18 +3,18 @@ A curated list of resources for cyclists and bike-packers
 
 ## Website
 
-### Social
+### 🍻 Social
 * [Strava](https://strava.com)
 * [Garmin Connect](https://connect.garmin.com/) 
 * [Join](https://www.relive.cc/) - Join group ride nearby
 
-### Training
+### 💦 Training
 * [TrainingPeaks](https://www.trainingpeaks.com/)
 * [Strava](https://strava.com)
 
 ### Online Shopping
 
-#### :shirt:Garment
+#### 👕 Garment
 * [Rapha](www.rapha.cc)
 * [Black Sheep Cycling](https://au.blacksheepcycling.cc/)
 * [MAAP](https://maap.cc/)
@@ -27,7 +27,7 @@ A curated list of resources for cyclists and bike-packers
 * [Café du Cycliste](cafeducycliste.com)
 * [Vanderkitten](https://www.vanderkitten.com/)
 
-#### Bike & Component
+#### 🔩 Bike & Component
 * [Chainreaction](http://www.chainreactioncycles.com/)
 * [Wiggle](http://wiggle.com)
 * [Competitive Cyclist](https://www.competitivecyclist.com/)
@@ -38,22 +38,22 @@ A curated list of resources for cyclists and bike-packers
 * [Cycling Express](www.cyclingexpress.com/)
 * [Bike-Discount](https://www.bike-discount.de/)
 
-### Blog & Review
+### 📑 Blog & Review
 * [DC Rainmaker](https://www.dcrainmaker.com/)
 * [In The Know Cycling](https://intheknowcycling.com/)
 
-### Route Planning
+### 🎯 Route Planning
 * [Ride With GPS](https://ridewithgps.com/)
 * [Strava Route Builder](https://www.strava.com/routes/new)
 * [VeloViewer](https://veloviewer.com/)
 
-### Tools
+### 🔧 Tools
 * [Relive](https://www.relive.cc/) - Recap video generated to your mailbox post each activity
 * [tapiriik](https://tapiriik.com/) - Two-way syncing of most popular services
 * [Strava Labs](http://labs.strava.com/)
 * [dwMap](https://dynamic.watch/) - Download routes to Garmin Edge from mobile phone
 
-### Indoor
+### 🎮 Indoor
 * [Zwift](https://zwift.com/)
 * [TrainerRoad](https://www.trainerroad.com/)
 * [SufferFest](https://thesufferfest.com/)
@@ -61,7 +61,7 @@ A curated list of resources for cyclists and bike-packers
 * [Kinomap](https://www.kinomap.com/apps/trainer)
 
 ## Mobile App
-### iOS App
+### 📲 iOS App
 * [Strava](https://itunes.apple.com/us/app/strava-running-and-cycling-gps/id426826309?mt=8) 
 * [Warmshowers](https://itunes.apple.com/us/app/warmshowers/id359056872?mt=8)  - The official Warmshowers.org iOS App
 * [Warmshowers.org](https://itunes.apple.com/us/app/warmshowers-org/id1135174836?mt=8) - An unofficial but better Warmshowers iOS client 
@@ -73,5 +73,5 @@ A curated list of resources for cyclists and bike-packers
 
 ### Android App
 
-## Browswer Extension
+## 🔨Browswer Extension
 * [stravistix](http://thomaschampagne.github.io/stravistix/) - Must have Strava add-on
