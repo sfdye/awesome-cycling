@@ -12,8 +12,35 @@ A curated list of resources for cyclists and bike-packers
 * [TrainingPeaks](https://www.trainingpeaks.com/)
 * [Strava](https://strava.com)
 
-### Blog
+### Online Shopping
+
+#### :shirt:Garment
+* [Rapha](www.rapha.cc)
+* [Black Sheep Cycling](https://au.blacksheepcycling.cc/)
+* [MAAP](https://maap.cc/)
+* [JAGGAD](http://jaggad.com/)
+* [ASSOS](http://www.assos.com/)
+* [Assos Factory Outlet](https://www.assosfactoryoutlet.com/)
+* [CAPO](https://capocycling.com/)
+* [Velocio](https://velocio.cc/)
+* [Morvélo](https://www.morvelo.com/)
+* [Café du Cycliste](cafeducycliste.com)
+* [Vanderkitten](https://www.vanderkitten.com/)
+
+#### Bike & Component
+* [Chainreaction](http://www.chainreactioncycles.com/)
+* [Wiggle](http://wiggle.com)
+* [Competitive Cyclist](https://www.competitivecyclist.com/)
+* [Bike Bug](www.bikebug.com/)
+* [Bike24](https://www.bike24.com/)
+* [Raycycles](https://www.racycles.com/)
+* [Performance Bike](www.performancebike.com/)
+* [Cycling Express](www.cyclingexpress.com/)
+* [Bike-Discount](https://www.bike-discount.de/)
+
+### Blog & Review
 * [DC Rainmaker](https://www.dcrainmaker.com/)
+* [In The Know Cycling](https://intheknowcycling.com/)
 
 ### Route Planning
 * [Ride With GPS](https://ridewithgps.com/)
@@ -24,7 +51,7 @@ A curated list of resources for cyclists and bike-packers
 * [Relive](https://www.relive.cc/) - Recap video generated to your mailbox post each activity
 * [tapiriik](https://tapiriik.com/) - Two-way syncing of most popular services
 * [Strava Labs](http://labs.strava.com/)
-* [dwMap](https://dynamic.watch/) Download course to Garmin Edge from mobile phone
+* [dwMap](https://dynamic.watch/) - Download routes to Garmin Edge from mobile phone
 
 ### Indoor
 * [Zwift](https://zwift.com/)
